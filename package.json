@@ -1,0 +1,33 @@
+{
+  "name": "generator-tradie-react",
+  "version": "1.0.0",
+  "description": "A generator for scaffolding React apps with Tradie.",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "tradie",
+    "react",
+    "redux",
+    "react-router",
+    "universal",
+    "isomorphic",
+    "redial",
+    "rechannel",
+    "bootstrap",
+    "boilerplate",
+    "yeoman-generator"
+  ],
+  "repository": "jameslnewell/generator-tradie-react",
+  "dependencies": {
+    "yeoman-generator": "^0.22.0"
+  },
+  "devDependencies": {
+    "yeoman-test": "^1.0.0",
+    "yeoman-assert": "^2.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "license": "MIT"
+}

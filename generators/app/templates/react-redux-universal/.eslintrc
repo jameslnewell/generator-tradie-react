@@ -1,0 +1,7 @@
+{
+  "extends": "jameslnewell/react",
+  "rules": {
+    "no-unused-expressions": 0, //TODO: how do we disable this rule only for tests?
+    "import/no-named-as-default": 0 //gets in the way of exporting the non-wrapped component for unit-testing
+  }
+}
