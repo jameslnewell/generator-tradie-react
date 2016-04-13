@@ -94,4 +94,4 @@ Includes `react-router` for routing, `redux` for managing application state and 
 - [live reloading](https://www.npmjs.com/package/tradie-plugin-livereload)
 - server rendering
 
->
+> Note: Server side rendering may positively impact performance in some cases and negatively impact performacne in others. Test!
