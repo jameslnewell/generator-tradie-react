@@ -1,4 +1,4 @@
-# generator-tradie-react
+# generator-tradie-react-app
 
 Generator for scaffolding `react` apps with `tradie`.
 
@@ -6,13 +6,13 @@ Generator for scaffolding `react` apps with `tradie`.
 
 ```bash
 npm install -g yo
-npm install -g generator-tradie-react
+npm install -g generator-tradie-react-app
 ```
 
 ## Usage
 
 ```bash
-yo tradie-react --type=<type>
+yo tradie-react-app --type=<type>
 ```
 
 Where type is one of:

@@ -1,5 +1,5 @@
 {
-  "name": "generator-tradie-react",
+  "name": "generator-tradie-react-app",
   "version": "1.0.0",
   "description": "A generator for scaffolding React apps with Tradie.",
   "files": [
@@ -18,7 +18,7 @@
     "boilerplate",
     "yeoman-generator"
   ],
-  "repository": "jameslnewell/generator-tradie-react",
+  "repository": "jameslnewell/generator-tradie-react-app",
   "dependencies": {
     "yeoman-generator": "^0.22.0"
   },
