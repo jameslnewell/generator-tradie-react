@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "bundles": ["index.jsx"],
+    "bundles": ["./index.jsx"],
     "libraries": ["react", "react-dom"],
     "transforms": ["babelify"],
     "extensions": [".js", ".jsx"]
