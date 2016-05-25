@@ -1,10 +1,10 @@
 {
   "scripts": {
-    "libraries": [
+    "vendors": [
       "react", "react-dom", "react-redux", "react-router", "react-router-redux",
       "rechannel", "redial", "redux"
     ],
-    "transforms": ["babelify"],
+    "loaders": ["babel"],
     "extensions": [".js", ".jsx"]
   },
   "plugins": [["copy", {"files": ["*.html"]}], "livereload", "serve"]

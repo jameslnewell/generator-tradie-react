@@ -1,8 +1,8 @@
 {
   "scripts": {
     "bundles": ["./index.jsx"],
-    "libraries": ["react", "react-dom"],
-    "transforms": ["babelify"],
+    "vendors": ["react", "react-dom"],
+    "loaders": ["babel"],
     "extensions": [".js", ".jsx"]
   },
   "plugins": [["copy", {"files": ["*.html"]}], "livereload", "serve"]
