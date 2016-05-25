@@ -6,7 +6,7 @@ import query from 'react-testutils-query';
 
 chai.use(sinonChai);
 
-global.expect = chai.expect;
+global.expect = expect;
 global.sinon = sinon;
 global.render = render;
 global.$ = query;

@@ -1,7 +1,7 @@
-import chai, {expect} from 'chai';
+import {expect} from 'chai';
 import render from 'react-testutils-render';
 import query from 'react-testutils-query';
 
-global.expect = chai.expect;
+global.expect = expect;
 global.render = render;
 global.$ = query;

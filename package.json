@@ -1,6 +1,6 @@
 {
   "name": "generator-tradie-react-app",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A generator for scaffolding React apps with Tradie.",
   "files": [
     "generators"

@@ -30,7 +30,10 @@
     "tradie-plugin-serve": "^0.1.2"
   },
   "scripts": {
-    "build": "tradie build",
+    "clean": "tradie clean",
+    "lint": "tradie lint",
+    "build": "tradie build --verbose",
+    "watch": "tradie build --verbose --watch",
     "test": "tradie test"
   }
 }
