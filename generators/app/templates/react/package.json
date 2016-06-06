@@ -16,7 +16,7 @@
     "react-addons-test-utils": "^0.14.7",
     "react-testutils-query": "^0.6.1",
     "react-testutils-render": "^0.1.2",
-    "tradie": "^1.0.0-alpha2",
+    "tradie": "^1.0.0-alpha4",
     "tradie-plugin-copy": "^0.2.0-preview.1",
     "tradie-plugin-livereload": "^0.1.2",
     "tradie-plugin-serve": "^0.2.0-preview.1"

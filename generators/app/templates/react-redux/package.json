@@ -24,7 +24,7 @@
     "react-testutils-render": "^0.1.2",
     "sinon": "^1.17.3",
     "sinon-chai": "^2.8.0",
-    "tradie": "^1.0.0-alpha2",
+    "tradie": "^1.0.0-alpha4",
     "tradie-plugin-copy": "^0.2.0-preview.1",
     "tradie-plugin-livereload": "^0.1.2",
     "tradie-plugin-serve": "^0.2.0-preview.1"
